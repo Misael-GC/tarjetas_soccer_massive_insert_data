@@ -1,0 +1,79 @@
+{
+    "players": [
+        { 
+            "name": "Misael Gómez Cuautle",
+            "file": "./Misael Gomez Cuautle.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Alan Coyopotl Solis",
+            "file": "./Alan Coyopotl Solis.jpeg",
+             "team": "La Masía"
+        },
+        {
+            "name": "Juan Edgar Saucedo Cuazitl",
+            "file": "./Juan Edgar Saucedo Cuazitl.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Sagid Torres Tzili",
+            "file": "./Sagid Torres Tzili.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Gael Valeria romero",
+            "file": "./Gael Valeria romero.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Oscar fabian Hernández itzmoyotl",
+            "file": "./Oscar fabian Hernández itzmoyotl.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Tomé Zamora César Raúl",
+            "file": "./Tomé Zamora César Raúl.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Carlos Alejandro Saucedo Cuazitl",
+            "file": "./Carlos Alejandro Saucedo Cuazitl.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Ricardo Saúl Cuautle Saucedo",
+            "file": "./Ricardo Saúl Cuautle Saucedo.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Samuel Arenas Martinez",
+            "file": "./Samuel Arenas Martinez.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "OMAR TORRES XICALE",
+            "file": "./OMAR TORRES XICALE.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Luis Ángel Aguilar Blas",
+            "file": "./Luis Ángel Aguilar Blas.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Daniel Azcatl",
+            "file": "./Daniel Azcatl.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Iván Juárez Vázquez",
+            "file": "./Iván Juárez Vázquez.jpeg",
+            "team": "La Masía"
+        },
+        {
+            "name": "Jose Gonzalo Ramirez Rosas",
+            "file": "./Jose Gonzalo Ramirez Rosas.jpeg",
+            "team": "La Masía"
+        }
+    ]
+}
