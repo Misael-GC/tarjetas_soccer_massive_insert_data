@@ -1,0 +1,74 @@
+{
+    "players": [
+        {
+            "name": "Alan Coyopotl Solis",
+            "file": "./Alan_Coyopotl_Solis-removebg-preview.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Sagid Torres Tzili",
+            "file": "./Sagid_Farid_Torres_Tzili-removebg-preview.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Gael Valeria romero",
+            "file": "./Gael_Valeria_Romero-removebg-preview.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Oscar fabian Hern\u00e1ndez itzmoyotl",
+            "file": "./Oscar.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Tom\u00e9 Zamora C\u00e9sar Ra\u00fal",
+            "file": "./Cesar.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Carlos Alejandro Saucedo Cuazitl",
+            "file": "./Carlos_Alejandro_Saucedo_Cuazitl-removebg-preview.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Ricardo Sa\u00fal Cuautle Saucedo",
+            "file": "./Ricardo_Saul_Cuautle_Saucedo-removebg-preview.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "OMAR TORRES XICALE",
+            "file": "./OMAR_TORRES_XICALE-removebg-preview.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Luis \u00c1ngel Aguilar Blas",
+            "file": "./Luis_\u00c1ngel_Aguilar_Blas-removebg-preview.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Daniel Azcatl",
+            "file": "./Daniel_Azcatl-removebg-preview.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Gabriel Gallegos",
+            "file": "./Gabriel_Gallegos_Moyotl-removebg-preview.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Cesar Ra\u00fal Tome Zamora",
+            "file": "./Cesar.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Francisco Zavala",
+            "file": "./Francisco_Zavala-removebg-preview.png",
+            "team": "La Mas\u00eda"
+        },
+        {
+            "name": "Giovanny Rojas Romero",
+            "file": "./Giovanny_Rojas_Romero-removebg-preview.png",
+            "team": "La Mas\u00eda"
+        }
+    ]
+}
